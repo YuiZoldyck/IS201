@@ -1,0 +1,112 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: darkslateblue;
+}
+
+h1{
+    font-size: 20px;
+    color: ghostwhite;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: 900;
+}
+
+h2{
+    text-align: center;
+    color: darkslateblue;
+}
+
+.head2{
+    text-align: center;
+    font-size: 16px;
+    color: blueviolet;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: navy;
+    text-align: center;
+}
+
+.p_interests{
+    font-size: 16px;
+}
+
+.common{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    color: navy;
+}
+.bg1{
+    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.box1{
+/*    padding-left: 1px;*/
+    margin: 100px;
+    width: 80%;
+    border-right: solid 5px white;
+    border-left: solid 5px white;
+    border-top: solid 5px white;
+    border-bottom: solid 5px white;
+}
+
+.box2{
+    padding-left: 1px;
+    margin: 125px;
+    left: 5px;
+    right: 5px;
+    height: 20px;
+    width: 500;
+    border: solid 1px black;
+    text-align: center   
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.pic1{
+    margin-top:2vw;
+    margin-bottom: 4vw;
+    align-content: center;
+    border: inset 2px black;
+}
+
+.pic2{
+    margin-top:4vw;
+    margin-bottom: 4vw;
+    align-content: center;
+    border: solid 2px white;
+}
+
+.vid{
+    margin-top: 4vw;
+    width: 100%;
+}
+
+.header{
+    text-align: right;
+}
+
+.contact-footer{
+    text-align: center;
+}
+
+.backtotop{
+    font-size: 18px;
+    text-decoration-line: underline;
+    text-align: center;
+    color: blue;
+}
