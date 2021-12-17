@@ -29,7 +29,7 @@ p{
     color: navy;
 }
 .bg1{
-    background-image: url("../assets/images/night_sky.jpg");
+    background-image: url("../../../home/html/assets/assets/images/night_sky.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
